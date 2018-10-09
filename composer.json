@@ -1,0 +1,13 @@
+{
+    "name": "ssfyn/string-case",
+    "authors": [
+        {
+            "name": "fyn",
+            "email": "a@fyn.pw"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["php/"]
+    }
+}
