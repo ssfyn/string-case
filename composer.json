@@ -1,5 +1,6 @@
 {
     "name": "ssfyn/string-case",
+    "description": "Convert any string to snake_case or kebab-case or PascalCase or camelCase.",
     "license": "MIT",
     "authors": [
         {
